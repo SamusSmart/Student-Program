@@ -1,0 +1,7 @@
+Course Details 
+--------------------
+Course Name: Java
+Course Lecturer: Keith
+The number of students in this course is: 19
+The percentage of males in the course is: 68.0%
+The percentage of females in the course is: 31.0%
